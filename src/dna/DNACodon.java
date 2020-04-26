@@ -18,7 +18,7 @@ public class DNACodon {
         // initialize the maps
         aminoAcids = new HashMap<>();
         codons = new HashMap<>();
-
+//salt
         // Codons from wikipedia: https://en.wikipedia.org/wiki/DNA_codon_table
 
         aminoAcids.put("ala", List.of("GCT", "GCC", "GCA", "GCG"));
